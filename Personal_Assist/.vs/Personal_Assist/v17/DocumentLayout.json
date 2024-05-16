@@ -1,0 +1,615 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\views\\suporte\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:views\\suporte\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\views\\suporte\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:views\\suporte\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\views\\suporte\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:views\\suporte\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\views\\suporte\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:views\\suporte\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\views\\suporte\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:views\\suporte\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\views\\servico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:views\\servico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\views\\servico\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:views\\servico\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\views\\servico\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:views\\servico\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\views\\servico\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:views\\servico\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\views\\servico\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:views\\servico\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\views\\empresa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:views\\empresa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\views\\empresa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:views\\empresa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\views\\empresa\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:views\\empresa\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\views\\empresa\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:views\\empresa\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\views\\empresa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:views\\empresa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\views\\feedback\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:views\\feedback\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\views\\feedback\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:views\\feedback\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\views\\feedback\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:views\\feedback\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\views\\feedback\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:views\\feedback\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\models\\suporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:models\\suporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\controllers\\suportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:controllers\\suportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\controllers\\servicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:controllers\\servicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\models\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:models\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\models\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:models\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\personal_assist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:personal_assist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|c:\\users\\gamer\\onedrive\\\u00E1rea de trabalho\\.net-16.5\\personal_assist\\personal_assist\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58A6194D-4C8D-4063-8D35-D7971392DE90}|Personal_Assist.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Empresa\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Empresa\\Index.cshtml",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Empresa\\Index.cshtml",
+              "RelativeToolTip": "Views\\Empresa\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T21:15:19.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Empresa\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Empresa\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Empresa\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Empresa\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T21:15:16.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Empresa\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Empresa\\Details.cshtml",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Empresa\\Details.cshtml",
+              "RelativeToolTip": "Views\\Empresa\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T21:15:12.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Empresa\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Empresa\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Empresa\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Empresa\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T21:15:07.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Empresa\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Empresa\\Create.cshtml",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Empresa\\Create.cshtml",
+              "RelativeToolTip": "Views\\Empresa\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T21:09:48.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Servico\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Servico\\Create.cshtml",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Servico\\Create.cshtml",
+              "RelativeToolTip": "Views\\Servico\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:33:40.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Servico\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Servico\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Servico\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Servico\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:36:04.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Servico\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Servico\\Details.cshtml",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Servico\\Details.cshtml",
+              "RelativeToolTip": "Views\\Servico\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:37:12.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Servico\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Servico\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Servico\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Servico\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:37:42.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Servico\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Servico\\Index.cshtml",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Servico\\Index.cshtml",
+              "RelativeToolTip": "Views\\Servico\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:38:26.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Suporte\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Suporte\\Create.cshtml",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Suporte\\Create.cshtml",
+              "RelativeToolTip": "Views\\Suporte\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:46:27.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Suporte\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Suporte\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Suporte\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Suporte\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:48:24.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Suporte\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Suporte\\Details.cshtml",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Suporte\\Details.cshtml",
+              "RelativeToolTip": "Views\\Suporte\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:49:06.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Suporte\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Suporte\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Suporte\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Suporte\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:51:02.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Suporte\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Suporte\\Index.cshtml",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Suporte\\Index.cshtml",
+              "RelativeToolTip": "Views\\Suporte\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:51:24.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Feedback\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Feedback\\Index.cshtml",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Feedback\\Index.cshtml",
+              "RelativeToolTip": "Views\\Feedback\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T21:14:02.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Feedback\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Feedback\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Feedback\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Feedback\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T21:13:48.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Feedback\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Feedback\\Create.cshtml",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Feedback\\Create.cshtml",
+              "RelativeToolTip": "Views\\Feedback\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T21:11:35.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T21:10:42.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:07:56.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SuporteController.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Controllers\\SuporteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SuporteController.cs",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Controllers\\SuporteController.cs",
+              "RelativeToolTip": "Controllers\\SuporteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:08:39.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeedbackController.cs",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "Controllers\\FeedbackController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:08:12.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ServicoController.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Controllers\\ServicoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServicoController.cs",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Controllers\\ServicoController.cs",
+              "RelativeToolTip": "Controllers\\ServicoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:08:28.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:07:58.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Models\\Contexto.cs",
+              "RelativeDocumentMoniker": "Models\\Contexto.cs",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Models\\Contexto.cs",
+              "RelativeToolTip": "Models\\Contexto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:07:51.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmpresaController.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Controllers\\EmpresaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpresaController.cs",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Controllers\\EmpresaController.cs",
+              "RelativeToolTip": "Controllers\\EmpresaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:07:44.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Feedback\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Feedback\\Details.cshtml",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Feedback\\Details.cshtml",
+              "RelativeToolTip": "Views\\Feedback\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:28:51.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Feedback\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Feedback\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Views\\Feedback\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Feedback\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:29:58.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Models\\Feedback.cs",
+              "RelativeToolTip": "Models\\Feedback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:07:21.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Models\\Empresa.cs",
+              "RelativeDocumentMoniker": "Models\\Empresa.cs",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Models\\Empresa.cs",
+              "RelativeToolTip": "Models\\Empresa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:07:17.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Personal_Assist",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Personal_Assist.csproj",
+              "RelativeDocumentMoniker": "Personal_Assist.csproj",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Personal_Assist.csproj",
+              "RelativeToolTip": "Personal_Assist.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-16T21:06:02.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Suporte.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Models\\Suporte.cs",
+              "RelativeDocumentMoniker": "Models\\Suporte.cs",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Models\\Suporte.cs",
+              "RelativeToolTip": "Models\\Suporte.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:39:36.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:37:50.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T21:03:11.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Servico.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Models\\Servico.cs",
+              "RelativeDocumentMoniker": "Models\\Servico.cs",
+              "ToolTip": "C:\\Users\\GAMER\\OneDrive\\\u00C1rea de Trabalho\\.net-16.5\\Personal_Assist\\Personal_Assist\\Models\\Servico.cs",
+              "RelativeToolTip": "Models\\Servico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:33:33.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
